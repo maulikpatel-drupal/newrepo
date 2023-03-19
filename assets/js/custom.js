@@ -1,6 +1,7 @@
 (function ($) {
 	
 	"use strict";
+  alert('hi test');
 	// Header Type = Fixed
   $(window).scroll(function() {
     var scroll = $(window).scrollTop();
